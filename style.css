@@ -33,7 +33,7 @@ main {
             display: flex;
             flex-direction: column;
             background-color: #00000025;
-            width: 400px;
+            max-width: 400px;
             border-radius: 10px 10px;
             margin: auto;
             box-shadow: 10px 10px 15px #00000030;
